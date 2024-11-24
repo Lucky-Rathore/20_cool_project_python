@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which language is primarily spoken in Brazil?",
+        "options": ["Spanish", "Portuguese", "French", "German"],
+        "answer": "Portuguese"
+    }
+]
